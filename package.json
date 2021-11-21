@@ -1,0 +1,23 @@
+{
+  "name": "gitpod-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivasaraogurram/gitpod-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivasaraogurram/gitpod-nodejs/issues"
+  },
+  "homepage": "https://github.com/srinivasaraogurram/gitpod-nodejs#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
